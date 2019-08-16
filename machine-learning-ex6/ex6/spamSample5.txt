@@ -1,0 +1,7 @@
+for i=1:1024
+for j=1:1024
+if U(i,:)==U(i+1,:)
+i;
+end
+end
+end
